@@ -1,0 +1,1 @@
+ssh-keygen -t rsa -C "maituan5540@gmail.com" -f "id_rsa_maitrananhtuan"
