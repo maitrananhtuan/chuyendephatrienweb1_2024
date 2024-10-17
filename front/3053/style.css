@@ -1,0 +1,70 @@
+.type-3053 body {
+  font-family: Arial, sans-serif;
+  /* Smaller screens adjustments */
+}
+.type-3053 body h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.type-3053 body .product-image {
+  width: 100%;
+  height: auto;
+  max-width: 250px;
+  margin: 0 auto;
+}
+.type-3053 body .product-item {
+  margin-bottom: 40px;
+}
+.type-3053 body .product-item h5 {
+  margin-top: 15px;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.type-3053 body .product-item p {
+  font-size: 1.65rem;
+  font-weight: 700;
+}
+.type-3053 body h4 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.type-3053 body .btn {
+  border: 1px solid #C0C0C0;
+}
+.type-3053 body .btn:hover {
+  background-color: #4682B4;
+  color: white;
+}
+.type-3053 body .certified-experts-text {
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+}
+.type-3053 body .certified-logo {
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  margin: 0 auto;
+}
+.type-3053 body .logo-row {
+  margin-bottom: 30px;
+}
+.type-3053 body .certified-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.type-3053 body .certified-section .certified-text {
+  width: 48%;
+}
+.type-3053 body .certified-section .certified-logos {
+  width: 48%;
+}
+@media (max-width: 768px) {
+  .type-3053 body .certified-text,
+  .type-3053 body .certified-logos {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
